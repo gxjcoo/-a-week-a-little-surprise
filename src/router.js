@@ -2,6 +2,7 @@ import Vue from "vue";
 import Router from "vue-router";
 import Layout from "./layout";
 import Index from "./views";
+import water from "./components/waterripple";
 Vue.use(Router);
 
 export default new Router({
@@ -16,6 +17,11 @@ export default new Router({
           path: "/",
           component: Index,
           name: "index"
+        },
+        {
+          path: "/a",
+          component: water,
+          name: "water"
         }
       ]
     }

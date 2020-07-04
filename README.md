@@ -1,2 +1,6 @@
-#   a week a little surprise
+# a week a little surprise
+
 一周一个小惊喜
+
+> 毕业三年了。来来回回学了很多东西，但都是浅尝辄止，2020 决定聚焦前端。<br/>
+> 这个小项目就是为了帮助自己找回前端 code 的最基础乐趣。
